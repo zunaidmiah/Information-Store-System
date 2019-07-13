@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "informationStoreSystem", "informationStoreSystem\informationStoreSystem.csproj", "{45D0C904-EE0C-4D92-8443-E4CB365B2D4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D0C904-EE0C-4D92-8443-E4CB365B2D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D0C904-EE0C-4D92-8443-E4CB365B2D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D0C904-EE0C-4D92-8443-E4CB365B2D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D0C904-EE0C-4D92-8443-E4CB365B2D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {377D5431-D935-46C3-B778-B79ABB31D1D3}
+	EndGlobalSection
+EndGlobal
